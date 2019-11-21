@@ -1,0 +1,12 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.skills {
+  align-items: center;
+  --cols-xs: 8;
+  --cols-sm: 8;
+  --cols-md: 12;
+  --cols-lg: 12;
+  --cols-xl: 12;
+}
